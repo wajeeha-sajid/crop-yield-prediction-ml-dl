@@ -1,12 +1,10 @@
 # 🌾 Crop Yield Prediction using Machine Learning and Deep Learning
 
-This project explores crop yield forecasting using traditional ML (Decision Tree, Random Forest, XGBoost) and DL (CNN, LSTM) models. Evaluated with K-Fold cross-validation on agricultural data.
+This project explores crop yield forecasting using traditional ML models (Decision Tree, Random Forest, XGBoost) and deep learning models (CNN, LSTM). The models are evaluated using K-Fold cross-validation and common error metrics on agricultural data.
 
 ## 📂 Files Included
 
 - `Crop_Yield_Prediction.ipynb` — Full implementation in Python using Scikit-learn, XGBoost, and TensorFlow
-- `Machine_Learning_Project_Report.pdf` — Summary of methodology, results, and conclusions
-- `dataset.csv` (optional or linked externally)
 
 ## 🛠 Techniques Used
 
@@ -29,13 +27,23 @@ Random Forest achieved the best performance for this dataset, outperforming even
 ## 🧠 Skills Highlighted
 
 - Data Preprocessing  
-- Model Comparison  
-- Cross-Validation  
+- Model Comparison & Evaluation  
 - Deep Learning with Keras  
+- Cross-Validation  
 - Visualization with Matplotlib
+
+## 📁 Dataset
+
+The dataset used in this project includes agricultural features such as rainfall, temperature, soil type, and crop type.
+
+> ⚠️ The original dataset is not included for privacy reasons.
+
+To reproduce the results, use any publicly available dataset with similar features.  
+You may consider using the [Crop Recommendation Dataset on Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) or similar sources.
 
 ## 👩‍💻 Author
 
 **Wajeeha Sajid**  
-MS Electrical and Computing Engineering  
+Electrical and Computer Engineering  
 [GitHub Profile](https://github.com/wajeeha-sajid)
+
