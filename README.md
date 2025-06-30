@@ -41,6 +41,9 @@ The dataset used in this project includes agricultural features such as rainfall
 To reproduce the results, use any publicly available dataset with similar features.  
 You may consider using the [Crop Recommendation Dataset on Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) or similar sources.
 
+## 🏷️ Tags
+#MachineLearning #DeepLearning #PyTorch  #AI
+
 ## 👩‍💻 Author
 
 **Wajeeha Sajid**  
